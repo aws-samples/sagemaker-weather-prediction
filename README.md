@@ -3,6 +3,6 @@ Here is the code to learn and implement the linear regression using the weather 
 
 # Instructions 
 1. Copy the python file and then download the dataset from 
-2. https://www.kaggle.com/rafunlearnhub/weatherhistory?select=weatherHistory.csv.
+https://www.kaggle.com/rafunlearnhub/weatherhistory?select=weatherHistory.csv.
 3. Install the required libraries and packages
 4. Run the python file or the .ipynb file in Jupyter or any other python interpreter to the execution of the code.
