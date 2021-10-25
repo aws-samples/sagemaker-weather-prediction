@@ -1,5 +1,5 @@
 # Temperature Predicture Weather Dataset
-Here is the code to learn and implement the linear regression using the weather dataset and to predict the max temperature by training the model with the given min and max temp data.
+Here is the code to learn and implement Amazon's SageMaker linear Regression, Polynomial Regression, Decision Tree Regressor using the weather dataset and to predict the max temperature by training the model with the given min and max temp data.
 
 # Instructions 
 1. Copy the python file and then download the dataset from 
