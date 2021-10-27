@@ -9,4 +9,5 @@ https://www.kaggle.com/rafunlearnhub/weatherhistory?select=weatherHistory.csv.
 
 Your final output should look somewaht like the below graph with your predicted temperature being closely aligned to the actual
 ![Screen Shot 2021-10-27 at 6 33 38 PM](https://user-images.githubusercontent.com/90632882/139162241-62284438-d779-403f-a4d0-dbac5e6d7ca7.png)
+
 Your values of Mean Asolute Error (MAE), Mean Squared Error (MSE) ans Root Mean Squared Error (RMSE) will help you determine the model with the best fit!
